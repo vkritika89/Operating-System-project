@@ -1,0 +1,1 @@
+"C:\Users\My PC\AppData\Local\bin\NASM\nasm.exe" -f bin "C:\Users\My PC\Desktop\myos\hello.asm" -o "C:\Users\My PC\Desktop\myos\hello.iso"
